@@ -15,15 +15,15 @@ The following points must be taken into consideration:
 The dataset provided in this project is a minimized version of Microsoft's database called AdventureWorks.
 You can check it here: https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works
 
-## Built With
+**Built With:**
 * [Power BI](https://powerbi.microsoft.com/en-us/) - Interactive Data Visualization
-
 <p align="center">
     <img width="100" height="100" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
 </p>
 
 * [Talend](https://www.talend.com/) - Data Integration (modern ETL)
-
 <p align="center">
     <img width="300" height="100" src="https://upload.wikimedia.org/wikipedia/fr/archive/4/4e/20150106111902%21Logo-talend-high.png">
 </p>
+
+* [MySQL WorkBench](https://www.mysql.com/products/workbench/) - Data Integration (modern ETL)
