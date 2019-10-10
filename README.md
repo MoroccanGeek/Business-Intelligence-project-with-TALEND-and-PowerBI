@@ -27,3 +27,9 @@ You can check it here: https://github.com/microsoft/sql-server-samples/tree/mast
 </p>
 
 * [MySQL WorkBench](https://www.mysql.com/products/workbench/) - Data Integration (modern ETL)
+
+
+**Project outcome:**
+
+![Summary page](https://github.com/MoroccanGeek/Business-Intelligence-project-with-TALEND-and-PowerBI/blob/master/Screenshots/1.png?raw=true "Optional Title")
+check more in screenshots folder
