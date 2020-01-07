@@ -26,7 +26,7 @@ You can check it here: https://github.com/microsoft/sql-server-samples/tree/mast
     <img width="300" height="100" src="https://upload.wikimedia.org/wikipedia/fr/archive/4/4e/20150106111902%21Logo-talend-high.png">
 </p>
 
-* [MySQL WorkBench](https://www.mysql.com/products/workbench/) - Data Integration (modern ETL)
+* [MySQL WorkBench](https://www.mysql.com/products/workbench/)
 
 
 **Project outcome:**
